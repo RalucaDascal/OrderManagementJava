@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"businessLogic","l":"Bll"},{"p":"model","l":"Client"},{"p":"dataAccess","l":"ClientDAO"},{"p":"dataAccess","l":"ConnectionFactory"},{"p":"model","l":"Order"},{"p":"dataAccess","l":"OrderDAO"},{"p":"Presentation","l":"PresentationClass"},{"p":"model","l":"Product"},{"p":"dataAccess","l":"ProductDAO"}]
